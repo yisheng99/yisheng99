@@ -1,4 +1,4 @@
-✨ Hi, I’m Yi Sheng. Welcome to my codespaces. I am currently an economist/macro analyst.
+✨ Hi, I’m Yi Sheng. Welcome to my coding space. I am currently an economist/macro analyst.
 
 📙 While explaining the World through macroeconomic analysis is my bread and butter, I occasionally spend time on developing trading strategies.
 I aim to constantly improve my quantitative and macro research process to craft better trading strategies. 
