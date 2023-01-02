@@ -3,7 +3,7 @@
 📙 While explaining the World through macroeconomic analysis is my bread and butter, I occasionally spend time on developing macroeconomic research or trading strategies.
 I aim to constantly improve my quantitative and macro research process to craft better trading strategies. 
 
-👀 As such, you can find my coding pieces, mostly on economic/finance/investments here.
+👀 As such, you can find my Python/Excel coding pieces, mostly on economic/finance/investments here.
 
 📫 Feel free to reach out to me via Linkedin https://www.linkedin.com/in/yapyisheng/ if you are interested in what I do. 
 
