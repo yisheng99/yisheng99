@@ -1,7 +1,7 @@
 ✨ Hi, I’m Yi Sheng. Welcome to my coding space. I am currently an economist/macro analyst.
 
-📙 While explaining the World through macroeconomic analysis is my bread and butter, I occasionally spend time on developing macroeconomic research or trading strategies.
-I aim to constantly improve my quantitative and macro research process to craft better trading strategies. 
+📙 While explaining the World through macroeconomic analysis is my bread and butter, I occasionally spend time developing macroeconomic research or trading strategies.
+I aim to constantly improve my macro research process to craft better investment strategies. 
 
 👀 As such, you can find my Python/Excel coding pieces, mostly on economic/finance/investments here.
 
